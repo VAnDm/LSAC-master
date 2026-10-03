@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.2)  2 OCT 2026 18:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.2)  3 OCT 2026 04:14
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -589,3 +589,534 @@ Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 LaTeX Info: Redefining \url on input line 4807.
 \XeTeXLinkMargin=\dimen260
  (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count322
+\Field@Width=\dimen261
+\Fld@charsize=\dimen262
+Package hyperref Info: Hyper figures OFF on input line 6084.
+Package hyperref Info: Link nesting OFF on input line 6089.
+Package hyperref Info: Hyper index ON on input line 6092.
+Package hyperref Info: backreferencing OFF on input line 6099.
+Package hyperref Info: Link coloring ON on input line 6102.
+Package hyperref Info: Link coloring with OCG OFF on input line 6109.
+Package hyperref Info: PDF/A mode OFF on input line 6114.
+\Hy@abspage=\count323
+\c@Item=\count324
+\c@Hfootnote=\count325
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2026-01-29 v7.01p Hyperref driver for pdfTeX
+\Fld@listcount=\count326
+\c@bookmark@seq@number=\count327
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfilecheck.sty
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 284.
+)
+\Hy@SectionHShift=\skip71
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/tools\indentfirst.sty
+Package: indentfirst 2023/07/02 v1.03 Indent first paragraph (DPC)
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.sty
+\lst@mode=\count328
+\lst@gtempboxa=\box64
+\lst@token=\toks31
+\lst@length=\count329
+\lst@currlwidth=\dimen263
+\lst@column=\count330
+\lst@pos=\count331
+\lst@lostspace=\dimen264
+\lst@width=\dimen265
+\lst@newlines=\count332
+\lst@lineno=\count333
+\lst@maxwidth=\dimen266
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstpatch.sty
+File: lstpatch.sty 2025/11/14 1.11b (Carsten Heinz)
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/listings\lstmisc.sty
+File: lstmisc.sty 2025/11/14 1.11b (Carsten Heinz)
+\c@lstnumber=\count334
+\lst@skipnumbers=\count335
+\lst@framebox=\box65
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/listings\listings.cfg
+File: listings.cfg 2025/11/14 1.11b listings configuration
+))
+Package: listings 2025/11/14 1.11b (Carsten Heinz)
+
+==> First Aid for listings.sty no longer applied!
+    Expected:
+        2024/09/23 1.10c (Carsten Heinz)
+    but found:
+        2025/11/14 1.11b (Carsten Heinz)
+    so I'm assuming it got fixed.
+(src/vpdtitle.sty
+
+LaTeX Warning: You have requested package `src/vpdtitle',
+               but the package provides `vpdtitle'.
+
+Package: vpdtitle 2024/01/31 v.01 Titlepage for VPD Subject
+(C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/paracol\paracol.sty
+Package: paracol 2025/07/14 1.37 typeset columns in parallel
+\pcol@currcol=\count336
+\pcol@nextcol=\count337
+\pcol@ncol=\count338
+\pcol@ncolleft=\count339
+\pcol@page=\count340
+\pcol@basepage=\count341
+\pcol@toppage=\count342
+\pcol@footnotebase=\count343
+\pcol@nfootnotes=\count344
+\pcol@mcid=\count345
+\pcol@prevdepth=\dimen267
+\pcol@colht=\dimen268
+\pcol@textfloatsep=\dimen269
+\pcol@lrmargin=\dimen270
+\pagerim=\dimen271
+\pcol@topskip=\skip72
+\belowfootnoteskip=\skip73
+\pcol@topfnotes=\box66
+\pcol@prespan=\box67
+\pcol@rightpage=\box68
+\pcol@colorstack@saved=\box69
+\pcol@tempboxa=\box70
+\pcol@tempboxb=\box71
+\pcol@colorins=\insert252
+\pcol@everyvbox=\toks32
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/preprint\authblk.sty
+Package: authblk 2001/02/27 1.3 (PWD)
+\affilsep=\skip74
+\@affilsep=\skip75
+\c@Maxaffil=\count346
+\c@authors=\count347
+\c@affil=\count348
+)) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2024/11/12 v2.9 Span multiple rows of a table
+\multirow@colwidth=\skip76
+\multirow@cntb=\count349
+\multirow@dima=\skip77
+\bigstrutjot=\dimen272
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titletoc.sty
+Package: titletoc 2025/01/04 v2.17 TOC entries
+\ttl@leftsep=\dimen273
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.sty
+Package: textcomp 2024/04/24 v2.1b Standard LaTeX package
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
+File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count350
+) (main.aux
+Package babel Info: 'russian' activates 'russian' shorthands.
+(babel)             Reported on input line 8.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:1' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+
+LaTeX Warning: Label `fig:2' multiply defined.
+
+)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 107.
+LaTeX Font Info:    ... okay on input line 107.
+LaTeX Info: Redefining \th on input line 107.
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count351
+\scratchdimen=\dimen274
+\scratchbox=\box72
+\nofMPsegments=\count352
+\nofMParguments=\count353
+\everyMPshowfont=\toks33
+\MPscratchCnt=\count354
+\MPscratchDim=\dimen275
+\MPnumerator=\count355
+\makeMPintoPDFobject=\count356
+\everyMPtoPDFconversion=\toks34
+) (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: float package is loaded.
+Package caption Info: hyperref package is loaded.
+Package caption Info: listings package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package hyperref Info: Link coloring ON on input line 107.
+(main.out) (main.out)
+\@outlinefile=\write3
+\openout3 = `main.out'.
+
+\c@lstlisting=\count357
+<images/logo_basic_russian_black.pdf, id=67, 951.555pt x 260.975pt>
+File: images/logo_basic_russian_black.pdf Graphic file (type pdf)
+<use images/logo_basic_russian_black.pdf>
+Package pdftex.def Info: images/logo_basic_russian_black.pdf  used on input line 109.
+(pdftex.def)             Requested size: 207.48424pt x 56.9055pt.
+
+Overfull \hbox (4.31047pt too wide) in paragraph at lines 109--109
+\T2A/cmr/bx/n/12 Ключевые сло-ва\T2A/cmr/m/n/12 :  Simulink, Matlab, Linear systems, Control
+ []
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 109.
+(C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 109.
+ (C:\Users\vandm\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Overfull \hbox (9.63382pt too wide) in paragraph at lines 109--109
+[]$\T2A/cmr/m/it/10.95 465112, ibaklanov@niuitmo.ru 
+ []
+
+
+Overfull \hbox (14.49268pt too wide) in paragraph at lines 109--109
+[]$\T2A/cmr/m/it/10.95 464994, vandmitrievic@mail.ru 
+ []
+
+[1
+
+{C:/Users/vandm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map} <./images/logo_basic_russian_black.pdf>] (main.toc)
+\tf@toc=\write4
+\openout4 = `main.toc'.
+
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.113 \newpage
+               [1] [2]
+Overfull \hbox (17.79431pt too wide) in paragraph at lines 172--183
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 166--183
+
+ []
+
+
+Overfull \hbox (1.68312pt too wide) in paragraph at lines 193--193
+[]|[]| 
+ []
+
+
+Overfull \hbox (4.43646pt too wide) in paragraph at lines 194--194
+[]|\T2A/cmr/m/n/12 Параметры
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 194--194
+[]|\T2A/cmr/m/n/12 Нач.
+ []
+
+
+Overfull \hbox (4.10156pt too wide) in paragraph at lines 195--195
+[]|$\OML/cmm/m/it/12 y\OT1/cmr/m/n/12 (0)$| 
+ []
+
+
+Overfull \hbox (4.10156pt too wide) in paragraph at lines 195--195
+[]|$[]\OT1/cmr/m/n/12 (0)$| 
+ []
+
+
+Overfull \hbox (5.61043pt too wide) in paragraph at lines 196--196
+[]|\T2A/cmr/m/n/12 Ассимпт.
+ []
+
+
+Overfull \hbox (5.61043pt too wide) in paragraph at lines 197--197
+[]|\T2A/cmr/m/n/12 Ассимпт.
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 +
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 197--197
+[]|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 1\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 2 \OMS/cmsy/m/n/12 ^^@
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 197--197
+[]|$\OT1/cmr/m/n/12 101\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44$| 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--198
+[]|\T2A/cmr/m/n/12 На гр.
+ []
+
+
+Overfull \hbox (4.1858pt too wide) in paragraph at lines 199--199
+[]|$\OT1/cmr/m/n/12 101\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 44$| 
+ []
+
+
+Overfull \hbox (3.81685pt too wide) in paragraph at lines 199--199
+[]|$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 05$| 
+ []
+
+
+Overfull \hbox (1.76929pt too wide) in paragraph at lines 200--200
+[]|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 11\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 5$| 
+ []
+
+
+Overfull \hbox (3.81685pt too wide) in paragraph at lines 200--200
+[]|$\OT1/cmr/m/n/12 0\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 05$| 
+ []
+
+
+Overfull \hbox (1.76929pt too wide) in paragraph at lines 201--201
+[]|$\OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 2\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 89$| 
+ []
+
+
+Overfull \hbox (40.86838pt too wide) in paragraph at lines 191--203
+ [][] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 184--203
+
+ []
+
+[3]
+<images/model1.png, id=140, 1075.6185pt x 319.1925pt>
+File: images/model1.png Graphic file (type png)
+<use images/model1.png>
+Package pdftex.def Info: images/model1.png  used on input line 213.
+(pdftex.def)             Requested size: 483.69687pt x 143.53787pt.
+ [4 <./images/model1.png>]
+<images/t1f1.png, id=148, 526.96875pt x 372.64218pt>
+File: images/t1f1.png Graphic file (type png)
+<use images/t1f1.png>
+Package pdftex.def Info: images/t1f1.png  used on input line 235.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+<images/t1f2.png, id=149, 526.96875pt x 372.64218pt>
+File: images/t1f2.png Graphic file (type png)
+<use images/t1f2.png>
+Package pdftex.def Info: images/t1f2.png  used on input line 241.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+ [5 <./images/t1f1.png (PNG copy)> <./images/t1f2.png (PNG copy)>]
+<images/t1f3.png, id=156, 526.96875pt x 372.64218pt>
+File: images/t1f3.png Graphic file (type png)
+<use images/t1f3.png>
+Package pdftex.def Info: images/t1f3.png  used on input line 248.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+<images/t1f4.png, id=157, 526.96875pt x 372.64218pt>
+File: images/t1f4.png Graphic file (type png)
+<use images/t1f4.png>
+Package pdftex.def Info: images/t1f4.png  used on input line 254.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+ [6 <./images/t1f3.png (PNG copy)> <./images/t1f4.png (PNG copy)>]
+<images/t1f5.png, id=165, 526.96875pt x 372.64218pt>
+File: images/t1f5.png Graphic file (type png)
+<use images/t1f5.png>
+Package pdftex.def Info: images/t1f5.png  used on input line 261.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+<images/t1f6.png, id=166, 526.96875pt x 372.64218pt>
+File: images/t1f6.png Graphic file (type png)
+<use images/t1f6.png>
+Package pdftex.def Info: images/t1f6.png  used on input line 267.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+ [7 <./images/t1f5.png (PNG copy)> <./images/t1f6.png (PNG copy)>] [8]
+<images/model2.png, id=177, 979.2585pt x 152.36925pt>
+File: images/model2.png Graphic file (type png)
+<use images/model2.png>
+Package pdftex.def Info: images/model2.png  used on input line 293.
+(pdftex.def)             Requested size: 483.69687pt x 75.26141pt.
+<images/model21.png, id=178, 873.2625pt x 292.6935pt>
+File: images/model21.png Graphic file (type png)
+<use images/model21.png>
+Package pdftex.def Info: images/model21.png  used on input line 309.
+(pdftex.def)             Requested size: 386.95897pt x 129.69662pt.
+ [9 <./images/model2.png> <./images/model21.png>] [10]
+<images/OblUst.png, id=192, 1204.5pt x 803.0pt>
+File: images/OblUst.png Graphic file (type png)
+<use images/OblUst.png>
+Package pdftex.def Info: images/OblUst.png  used on input line 403.
+(pdftex.def)             Requested size: 386.95897pt x 257.96997pt.
+ [11 <./images/OblUst.png>]
+<images/model2f.png, id=199, 885.90974pt x 308.95425pt>
+File: images/model2f.png Graphic file (type png)
+<use images/model2f.png>
+Package pdftex.def Info: images/model2f.png  used on input line 416.
+(pdftex.def)             Requested size: 483.69687pt x 168.6855pt.
+ [12 <./images/model2f.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 446--450
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 451--452
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 452--453
+
+ []
+
+<images/t2f1.png, id=207, 526.96875pt x 372.64218pt>
+File: images/t2f1.png Graphic file (type png)
+<use images/t2f1.png>
+Package pdftex.def Info: images/t2f1.png  used on input line 458.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+[13 <./images/t2f1.png (PNG copy)>]
+<images/t2f2.png, id=214, 526.96875pt x 372.64218pt>
+File: images/t2f2.png Graphic file (type png)
+<use images/t2f2.png>
+Package pdftex.def Info: images/t2f2.png  used on input line 465.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+<images/t2f3.png, id=215, 526.96875pt x 372.64218pt>
+File: images/t2f3.png Graphic file (type png)
+<use images/t2f3.png>
+Package pdftex.def Info: images/t2f3.png  used on input line 471.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+ [14 <./images/t2f2.png (PNG copy)> <./images/t2f3.png (PNG copy)>] [15] [16] [17]
+<images/model3.png, id=234, 363.15675pt x 409.53pt>
+File: images/model3.png Graphic file (type png)
+<use images/model3.png>
+Package pdftex.def Info: images/model3.png  used on input line 643.
+(pdftex.def)             Requested size: 386.95897pt x 436.40558pt.
+ [18 <./images/model3.png>]
+<images/t3f1.png, id=242, 526.96875pt x 372.64218pt>
+File: images/t3f1.png Graphic file (type png)
+<use images/t3f1.png>
+Package pdftex.def Info: images/t3f1.png  used on input line 652.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+<images/t3f2.png, id=243, 526.96875pt x 372.64218pt>
+File: images/t3f2.png Graphic file (type png)
+<use images/t3f2.png>
+Package pdftex.def Info: images/t3f2.png  used on input line 659.
+(pdftex.def)             Requested size: 386.95897pt x 273.64705pt.
+ [19 <./images/t3f1.png (PNG copy)> <./images/t3f2.png (PNG copy)>] [20] (main.aux)
+ ***********
+LaTeX2e <2025-11-01>
+L3 programming layer <2026-01-19>
+ ***********
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+Package rerunfilecheck Info: File `main.out' has not changed.
+(rerunfilecheck)             Checksum: 3024CF780F45D6F3A302F43AA34BF67F;5236.
+ ) 
+Here is how much of TeX's memory you used:
+ 17539 strings out of 467867
+ 277875 string characters out of 5418335
+ 736127 words of memory out of 5000000
+ 46118 multiletter control sequences out of 15000+600000
+ 644986 words of font info for 78 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 75i,16n,84p,869b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm1200.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on main.pdf (21 pages, 653403 bytes).
+PDF statistics:
+ 564 PDF objects out of 1000 (max. 8388607)
+ 57 named destinations out of 1000 (max. 500000)
+ 219 words of extra memory for PDF output out of 10000 (max. 10000000)
+
