@@ -1,5 +1,5 @@
 # Fdb version 4
-["pdflatex"] 1791013228.95996 "c:/Users/vandm/labs/LSAU/LSAC-master/lab2/Paper/main.tex" "main.pdf" "main" 1791013230.26489 0
+["pdflatex"] 1791016470.06234 "c:/Users/vandm/labs/LSAU/LSAC-master/lab2/Paper/main.tex" "main.pdf" "main" 1791016471.2885 0
   "C:/Users/vandm/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1779177590 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/vandm/AppData/Local/MiKTeX/fonts/pk/ljfour/jknappen/ec/dpi600/tcrm1200.pk" 1789565391 14064 e6cea956aff7639d8a73f7950c707b62 ""
   "C:/Users/vandm/AppData/Local/MiKTeX/fonts/pk/ljfour/lh/lh-t2a/dpi600/labx1200.pk" 1772463972 29472 3ede8dbc0d37976265b02b0585a92a21 ""
@@ -138,7 +138,7 @@
   "C:/Users/vandm/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/vandm/AppData/Local/Programs/MiKTeX/tex/latex/varwidth/varwidth.sty" 1238469540 10894 d359a13923460b2a73d4312d613554c8 ""
   "C:/Users/vandm/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1729265222 55384 b454dec21c2d9f45ec0b793f0995b992 ""
-  "c:/Users/vandm/labs/LSAU/LSAC-master/lab2/Paper/main.tex" 1791013228 32903 a158fbf3bd6cbc9bb76ecf158a8a610c ""
+  "c:/Users/vandm/labs/LSAU/LSAC-master/lab2/Paper/main.tex" 1791016469 32903 44c4b29f3d0a72311e7629acd5987656 ""
   "images/OblUst.png" 1790978991 68067 02e8ac9ab3b972a99a0b9855da2283fc ""
   "images/logo_basic_russian_black.pdf" 1789812378 15121 9f91eb8556587ec04931defa22dc412b ""
   "images/model1.png" 1790938041 42803 9d5386c52bc01f81c38d34b8d4c57382 ""
@@ -157,10 +157,10 @@
   "images/t2f3.png" 1790955529 19391 c1a06f571055b2597c30384425a79cf0 ""
   "images/t3f1.png" 1790988400 29518 59eae8dccb0d749d42efd0ddb1c09a68 ""
   "images/t3f2.png" 1790989099 24633 92cb6fa0aae90308d7b0d51746b7efb1 ""
-  "main.aux" 1791013230 8624 ce14a80bc3c7b91cb5dfb4f8c7aff124 "pdflatex"
-  "main.out" 1791013230 5236 3024cf780f45d6f3a302f43aa34bf67f "pdflatex"
-  "main.tex" 1791013228 32903 a158fbf3bd6cbc9bb76ecf158a8a610c ""
-  "main.toc" 1791013230 2099 95f2137ec4b539b30916f06e87750655 "pdflatex"
+  "main.aux" 1791016471 8624 3a0fcda7398bb7d61569669d6a4325c2 "pdflatex"
+  "main.out" 1791016471 5236 3024cf780f45d6f3a302f43aa34bf67f "pdflatex"
+  "main.tex" 1791016469 32903 44c4b29f3d0a72311e7629acd5987656 ""
+  "main.toc" 1791016471 2099 95f2137ec4b539b30916f06e87750655 "pdflatex"
   "src/vpdtitle.sty" 1789812378 2800 3314287d3b6b931a856e9177525109f5 ""
   (generated)
   "main.aux"
