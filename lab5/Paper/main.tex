@@ -372,58 +372,51 @@ $K$ равняется $1$, $5$ или $10$ в зависимости от но�
     \caption{Схема моделирования задания 4}
     \label{fig:1}
 \end{figure}
-Переместим прибавление $g$ через сложение, получим эквивалентную схему и избавимся от входного сигнала:
-\begin{figure}[H]
-    \centering
-    \includegraphics[width=\textwidth]{images/model41.png}
-    \caption{Схема моделирования задания 4 после преобразования}
-    \label{fig:1}
-\end{figure}
 \subsection{Расчет статической ошибки при нуле одного из возмущений и стационарном воздействии}
 Примем $g(t) = 1(t)$, $f_2(t) = 0$, $f_1(t) = F_1(t)$:
 \newline
 Запишем выражение для ошибки:
 \[
-    e(t) = -y(t) = -\frac{1}{s}W(s)[1(t)] - W(s)[F_1(t) + \frac{1}{s}[e(t)]] 
+    e(t) = g(t) - y(t) = 1(t) - y(t)= 1(t) - W(s)[F_1(t) + \frac{1}{s}[e(t)]] 
 \]
 \[
-    e(t) = -\frac{1}{s}W(s)[1(t)] - W(s)[F_1(t)] - \frac{1}{s}W(s)[e(t)]
+    e(t) = 1(t) - W(s)[F_1(t)] - \frac{1}{s}W(s)[e(t)]
 \]
 \[
-    (1 + \frac{1}{s}W(s))[e] = -\frac{1}{s}W(s)[1(t)] - W(s)[F_1(t)]
+    (1 + \frac{1}{s}W(s))[e] = 1(t) - W(s)[F_1(t)]
 \]
 \[
-    e = -\frac{\frac{1}{s}W(s)}{1 + \frac{1}{s}W(s)}[1(t)] - \frac{W(s)}{1 + \frac{1}{s}W(s)}[F_1(t)] = -\frac{W(s)}{s + W(s)}[1(t)] - \frac{sW(s)}{s + W(s)}[F_1(t)] = \frac{W(s) - F_1sW(s)}{s + W(s)}[1(t)]
+    e = \frac{1}{1 + \frac{1}{s}W(s)}[1(t)] - \frac{W(s)}{1 + \frac{1}{s}W(s)}[F_1(t)] = \frac{s}{s + W(s)}[1(t)] - \frac{sW(s)}{s + W(s)}[F_1(t)] = \frac{s - F_1sW(s)}{s + W(s)}[1(t)]
 \]
 Тогда, статическую ошибку можно представить как:
 \[
-    \varepsilon_1 = \lim_{s \to 0}(s\frac{-W(s) - F_1sW(s)}{s + W(s)}\frac{1}{s}) = \lim_{s \to 0}(\frac{\frac{2}{0,1s^2 + 2,8s + 1} - F_1\frac{2s}{0,1s^2 + 2,8s + 1}}{s + \frac{2}{0,1s^2 + 2,8s + 1}}) =
+    \varepsilon_1 = \lim_{s \to 0}(s\frac{s - F_1sW(s)}{s + W(s)}\frac{1}{s}) = \lim_{s \to 0}(\frac{s - F_1\frac{2s}{0,1s^2 + 2,8s + 1}}{s + \frac{2}{0,1s^2 + 2,8s + 1}}) =
 \]
 \[
-    = \lim_{s \to 0}(\frac{2 - 2sF_1}{0,1s^2 + 2,8s + 1} / \frac{0,1s^3 + 2,8s^2 + s + 2}{0,1s^2 + 2,8s + 1}) = \lim_{s \to 0}(\frac{2 - 2sF_1}{0,1s^3 + 2,8s^2 + s + 2}) = 1
+    = \lim_{s \to 0}(\frac{s - 2sF_1}{0,1s^2 + 2,8s + 1} / \frac{0,1s^3 + 2,8s^2 + s + 2}{0,1s^2 + 2,8s + 1}) = \lim_{s \to 0}(\frac{s - 2sF_1}{0,1s^3 + 2,8s^2 + s + 2}) = 0
 \]
 \newline
 Теперь примем $g(t) = 1(t)$, $f_2(t) = F_2$, $f_1(t) = 0$:
 \newline
 Запишем выражение для ошибки:
 \[
-    e(t) = - y = -\frac{1}{s}W(s)[1(t)] - W(s)[\frac{1}{s}[e(t) + F_2(t)]] 
+    e(t) = g(t) - y(t) = 1(t) - y(t) = 1(t) - W(s)[\frac{1}{s}[e(t) + F_2(t)]] 
 \]
 \[
-    e(t) = -\frac{1}{s}W(s)[1(t)] - \frac{1}{s}W(s)[F_2(t)] - \frac{1}{s}W(s)[e(t)]
+    e(t) = 1(t) - \frac{1}{s}W(s)[F_2(t)] - \frac{1}{s}W(s)[e(t)]
 \]
 \[
-    (1 + \frac{1}{s}W(s))[e] = -\frac{1}{s}W(s)[1(t)] - \frac{1}{s}W(s)[F_2(t)]
+    (1 + \frac{1}{s}W(s))[e] = 1(t) - \frac{1}{s}W(s)[F_2(t)]
 \]
 \[
-    e = -\frac{\frac{1}{s}W(s)}{1 + \frac{1}{s}W(s)}[1(t)] - \frac{\frac{1}{s}W(s)}{1 + \frac{1}{s}W(s)}[F_2(t)] = \frac{W(s)}{s + W(s)}[1(t)] - \frac{W(s)}{s + W(s)}[F_2(t)] = \frac{W(s) - F_2W(s)}{s + W(s)}[1(t)]
+    e = \frac{1}{1 + \frac{1}{s}W(s)}[1(t)] - \frac{\frac{1}{s}W(s)}{1 + \frac{1}{s}W(s)}[F_2(t)] = \frac{s}{s + W(s)}[1(t)] - \frac{W(s)}{s + W(s)}[F_2(t)] = \frac{s - F_2W(s)}{s + W(s)}[1(t)]
 \]
 Тогда, статическую ошибку можно представить как:
 \[
-    \varepsilon_2 = \lim_{s \to 0}(s\frac{-W(s) - F_2W(s)}{s + W(s)}\frac{1}{s}) = \lim_{s \to 0}(\frac{-\frac{2}{0,1s^2 + 2,8s + 1} - F_2\frac{2}{0,1s^2 + 2,8s + 1}}{s + \frac{2}{0,1s^2 + 2,8s + 1}}) =
+    \varepsilon_2 = \lim_{s \to 0}(s\frac{s - F_2W(s)}{s + W(s)}\frac{1}{s}) = \lim_{s \to 0}(\frac{s - F_2\frac{2}{0,1s^2 + 2,8s + 1}}{s + \frac{2}{0,1s^2 + 2,8s + 1}}) =
 \]
 \[
-    = \lim_{s \to 0}(\frac{0,1s^3 + 2,8s^2 + s - 2F_2}{0,1s^2 + 2,8s + 1} / \frac{0,1s^3 + 2,8s^2 + s + 2}{0,1s^2 + 2,8s + 1}) = \lim_{s \to 0}(\frac{0,1s^3 + 2,8s^2 + s - 2F_2}{0,1s^3 + 2,8s^2 + s + 2}) = -(1 + F_2)
+    = \lim_{s \to 0}(\frac{0,1s^3 + 2,8s^2 + s - 2F_2}{0,1s^2 + 2,8s + 1} / \frac{0,1s^3 + 2,8s^2 + s + 2}{0,1s^2 + 2,8s + 1}) = \lim_{s \to 0}(\frac{0,1s^3 + 2,8s^2 + s - 2F_2}{0,1s^3 + 2,8s^2 + s + 2}) = -F_2
 \]
 \newpage
 \subsection{Графики $e(t)$ для системы с возмущениями при нуле одного из возмущений}

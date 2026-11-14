@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.2)  14 NOV 2026 11:07
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.2) (preloaded format=pdflatex 2026.3.2)  14 NOV 2026 11:55
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -766,9 +766,6 @@ LaTeX Warning: Label `fig:2' multiply defined.
 LaTeX Warning: Label `fig:1' multiply defined.
 
 
-LaTeX Warning: Label `fig:1' multiply defined.
-
-
 LaTeX Warning: Label `fig:2' multiply defined.
 
 
@@ -1014,61 +1011,56 @@ File: images/t3g2Ki10.png Graphic file (type png)
 Package pdftex.def Info: images/t3g2Ki10.png  used on input line 358.
 (pdftex.def)             Requested size: 483.69687pt x 242.76463pt.
  [14 <./images/t3g1Ki10.png (PNG copy)> <./images/t3g2Ki10.png (PNG copy)>] [15]
-<images/model4.png, id=309, 931.0785pt x 290.2845pt>
+<images/model4.png, id=309, 650.43pt x 372.1905pt>
 File: images/model4.png Graphic file (type png)
 <use images/model4.png>
 Package pdftex.def Info: images/model4.png  used on input line 371.
-(pdftex.def)             Requested size: 483.69687pt x 150.80263pt.
-<images/model41.png, id=310, 988.8945pt x 410.7345pt>
-File: images/model41.png Graphic file (type png)
-<use images/model41.png>
-Package pdftex.def Info: images/model41.png  used on input line 378.
-(pdftex.def)             Requested size: 483.69687pt x 200.90442pt.
+(pdftex.def)             Requested size: 483.69687pt x 276.79102pt.
 
-Overfull \hbox (51.33849pt too wide) detected at line 397
-\OML/cmm/m/it/12 e \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[]\OT1/cmr/m/n/12 [1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = \OMS/cmsy/m/n/12 ^^@[]\OT1/cmr/m/n/12 [1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]
+Overfull \hbox (10.8081pt too wide) detected at line 390
+\OML/cmm/m/it/12 e \OT1/cmr/m/n/12 = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]
  []
 
-[16 <./images/model4.png> <./images/model41.png>]
-Overfull \hbox (36.47044pt too wide) detected at line 420
-\OML/cmm/m/it/12 e \OT1/cmr/m/n/12 = \OMS/cmsy/m/n/12 ^^@[]\OT1/cmr/m/n/12 [1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]
+[16 <./images/model4.png>]
+Overfull \hbox (5.27342pt too wide) detected at line 413
+\OML/cmm/m/it/12 e \OT1/cmr/m/n/12 = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] \OMS/cmsy/m/n/12 ^^@ []\OT1/cmr/m/n/12 [\OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 (\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )] = [][1(\OML/cmm/m/it/12 t\OT1/cmr/m/n/12 )]
  []
 
 
-Overfull \hbox (24.31177pt too wide) detected at line 427
-\OT1/cmr/m/n/12 = []([]\OML/cmm/m/it/12 =[]\OT1/cmr/m/n/12 ) = []([]) = \OMS/cmsy/m/n/12 ^^@\OT1/cmr/m/n/12 (1 + \OML/cmm/m/it/12 F[]\OT1/cmr/m/n/12 )
+Overfull \hbox (0.15924pt too wide) detected at line 420
+\OT1/cmr/m/n/12 = []([]\OML/cmm/m/it/12 =[]\OT1/cmr/m/n/12 ) = []([]) = \OMS/cmsy/m/n/12 ^^@\OML/cmm/m/it/12 F[]
  []
 
 [17]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 429.
+(hyperref)                removing `math shift' on input line 422.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 429.
+(hyperref)                removing `math shift' on input line 422.
 
-<images/t4g1.png, id=323, 1431.84938pt x 674.52pt>
+<images/t4g1.png, id=320, 1431.84938pt x 674.52pt>
 File: images/t4g1.png Graphic file (type png)
 <use images/t4g1.png>
-Package pdftex.def Info: images/t4g1.png  used on input line 432.
+Package pdftex.def Info: images/t4g1.png  used on input line 425.
 (pdftex.def)             Requested size: 483.69687pt x 227.85167pt.
-<images/t4g2.png, id=324, 1431.84938pt x 674.52pt>
+<images/t4g2.png, id=321, 1431.84938pt x 674.52pt>
 File: images/t4g2.png Graphic file (type png)
 <use images/t4g2.png>
-Package pdftex.def Info: images/t4g2.png  used on input line 438.
+Package pdftex.def Info: images/t4g2.png  used on input line 431.
 (pdftex.def)             Requested size: 483.69687pt x 227.85167pt.
 [18 <./images/t4g1.png (PNG copy)> <./images/t4g2.png (PNG copy)>] [19]
-<images/model5.png, id=336, 605.8635pt x 333.6465pt>
+<images/model5.png, id=333, 605.8635pt x 333.6465pt>
 File: images/model5.png Graphic file (type png)
 <use images/model5.png>
-Package pdftex.def Info: images/model5.png  used on input line 451.
+Package pdftex.def Info: images/model5.png  used on input line 444.
 (pdftex.def)             Requested size: 483.69687pt x 266.37282pt.
  [20 <./images/model5.png>] [21]
-<images/t5g1.png, id=348, 1190.94937pt x 597.73312pt>
+<images/t5g1.png, id=345, 1190.94937pt x 597.73312pt>
 File: images/t5g1.png Graphic file (type png)
 <use images/t5g1.png>
-Package pdftex.def Info: images/t5g1.png  used on input line 501.
+Package pdftex.def Info: images/t5g1.png  used on input line 494.
 (pdftex.def)             Requested size: 483.69687pt x 242.76463pt.
  [22 <./images/t5g1.png (PNG copy)>] [23] (main.aux)
  ***********
@@ -1083,17 +1075,17 @@ Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 126C832FBF0D92F5585F237E0DA6289B;10766.
  ) 
 Here is how much of TeX's memory you used:
- 17623 strings out of 467867
- 279500 string characters out of 5418335
+ 17615 strings out of 467867
+ 279309 string characters out of 5418335
  721912 words of memory out of 5000000
- 46181 multiletter control sequences out of 15000+600000
+ 46174 multiletter control sequences out of 15000+600000
  647248 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  75i,7n,84p,920b,510s stack positions out of 10000i,1000n,20000p,200000b,200000s
  <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1200.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati0800.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1440.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati1095.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm0800.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\vandm\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/vandm/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb>
-Output written on main.pdf (24 pages, 1318960 bytes).
+Output written on main.pdf (24 pages, 1269372 bytes).
 PDF statistics:
- 682 PDF objects out of 1000 (max. 8388607)
- 79 named destinations out of 1000 (max. 500000)
- 363 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 678 PDF objects out of 1000 (max. 8388607)
+ 78 named destinations out of 1000 (max. 500000)
+ 358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
